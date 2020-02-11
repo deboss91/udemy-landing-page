@@ -1,0 +1,18 @@
+import React from "react";
+// import logo from "./logo.svg";
+import "./App.css";
+import Header from "./components/header/Header";
+import Body from "./components/Container/background";
+import Footer from "./components/footer/Footer";
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <Body />
+      <Footer />
+    </div>
+  );
+}
+
+export default App;

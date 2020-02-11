@@ -1,0 +1,61 @@
+.sec {
+  height: 77.3vh;
+  background: blue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  font-size: 100%;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.sec2 {
+  /* height: inherit; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* align-items: flex-start; */
+  margin-left: 90px;
+  line-height: 1;
+
+  /* margin-top: 1em; */
+}
+.secInput::placeholder {
+  font-size: 20px;
+}
+/* .sec3 {
+  line-height: 0.75;
+} */
+.h1 {
+  padding-top: 95px;
+  font-size: 35px;
+}
+.h5 {
+  font-size: 18px;
+}
+
+.secInput {
+  width: 35em;
+  height: 40px;
+  padding: 4px;
+  /* margin-right: 70em; */
+  /* line-height: 100; */
+  /* position: relative;
+  left: -1.5em; */
+}
+
+.sec {
+  background-image: url("./background.jpg");
+  /* height: 75vh; */
+}
+
+.h {
+  font: 100px;
+}
+.search2 {
+  position: relative;
+  left: 28em;
+  top: 2.3em;
+}

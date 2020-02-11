@@ -1,0 +1,51 @@
+.foot {
+  display: flex;
+  justify-content: space-around;
+  font-family: open sans, helvetica neue, Helvetica, Arial, sans-serif;
+  height: 13vh;
+  background: rgb(145, 43, 43);
+  background-image: linear-gradient(
+    to right,
+    rgba(112, 6, 72, 0.8),
+    rgba(180, 15, 70, 0.8)
+  );
+}
+.cir {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+}
+.cirDiv {
+  line-height: 0px;
+}
+.cirImg {
+  margin-right: 20px;
+}
+.com {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+}
+.comDiv {
+  line-height: 0px;
+}
+.comImg {
+  margin-right: 20px;
+}
+.clo {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+}
+.cloDiv {
+  line-height: 0px;
+}
+.cloImg {
+  margin-right: 20px;
+}
